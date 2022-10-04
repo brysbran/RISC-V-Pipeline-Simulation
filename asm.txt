@@ -1,0 +1,1 @@
+lw f6, 32(x2)lw f2, 48(x3)mul f0, f2, f4sub f8, f6, f2div f10, f0, f6add f6, f8, f2
