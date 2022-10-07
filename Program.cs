@@ -4,14 +4,10 @@ using System.IO;
 
 namespace Pipeline_Lab{
     public class Program{
-        static void Main(string[] args)
-        {
-            try{
+        static void Main(string[] args) {
             Pipeline_Lab.Pipeline.Process();
-            }
-            catch(NullReferenceException ex){
-                System.Console.WriteLine("Oops the object was not initialized properly.");
-            }
+            //Pipeline_Lab.Pipeline.print();
+            
         }
     }
 }

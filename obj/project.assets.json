@@ -13,21 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ETSU_Fall_22\\ComputerSystems\\LabWork\\PipelineSimulator\\PipelineSimulator.csproj",
+      "projectUniqueName": "F:\\ETSU_Fall_22\\ComputerSystems\\PipelineSimulator\\PipelineSimulator.csproj",
       "projectName": "PipelineSimulator",
-      "projectPath": "F:\\ETSU_Fall_22\\ComputerSystems\\LabWork\\PipelineSimulator\\PipelineSimulator.csproj",
+      "projectPath": "F:\\ETSU_Fall_22\\ComputerSystems\\PipelineSimulator\\PipelineSimulator.csproj",
       "packagesPath": "C:\\Users\\bcbra\\.nuget\\packages\\",
-      "outputPath": "F:\\ETSU_Fall_22\\ComputerSystems\\LabWork\\PipelineSimulator\\obj\\",
+      "outputPath": "F:\\ETSU_Fall_22\\ComputerSystems\\PipelineSimulator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bcbra\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\bcbra\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
